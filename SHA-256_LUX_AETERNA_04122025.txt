@@ -1,0 +1,4 @@
+SHA-256 del archivo firmado:
+b8ff3b4a0df94caf010378628c0731cd03525b5b931102e636eb13ef1fa1d3bb
+Verificado por ELOHIM y José Pablo Oyuela
+Fecha: April 12th, 2025
